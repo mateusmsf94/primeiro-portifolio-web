@@ -4,7 +4,7 @@
 |---         | ---     |
 | Seu nome completo  | :heavy_check_mark: |
 | Foto minha | :heavy_check_mark: |
-| Uma breve descrição sobre você |  |
+| Uma breve descrição sobre você | :heavy_check_mark: |
 | Uma lista de habilidades que você possui |  |
 | Um link interno para a sua foto |  |
 | Um link externo para algum blog de que você goste, que abra em uma nova aba; |  |
