@@ -26,6 +26,23 @@ img {
   border-radius: 50%;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  
+  margin: 10px auto;
+  
+}
+
+.accent {
+  font-size: 3rem;
+  font-weight: bold;
+  
+}
+
 .nacionalidade {
   color: #f4ac45;
   font-size: 2em;
