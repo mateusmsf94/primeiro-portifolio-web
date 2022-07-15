@@ -19,6 +19,5 @@
 |---         | :---:     |
 | Seu nome completoDefina fontes diferentes para o seu nome e para a descrição que você criou  | :heavy_check_mark: |
 | Defina uma cor base de background | :heavy_check_mark: |
-| Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
- | :heavy_check_mark: |
+| Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora | :heavy_check_mark: |
 | Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. Lembre-se de usar classes para cada um dos elementos | :heavy_check_mark: |
